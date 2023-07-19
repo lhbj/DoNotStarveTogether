@@ -1,0 +1,2 @@
+[00:00:49]: [Join Announcement] 9060
+[00:04:07]: [Leave Announcement] 9060
