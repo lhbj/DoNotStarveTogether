@@ -1,0 +1,14 @@
+name = "Quick Drop - Client Version"
+version = "1.0"
+description = "Hold Shift to be able to right click on an item to drop it! (Hold CTRL as well and it will drop a single item from a stack)"
+author = "Fidooop"
+forumthread = ""
+api_version = 10
+icon_atlas = "images/modicon.xml"
+icon = "modicon.tex"
+dont_starve_compatible = false
+reign_of_giants_compatible = false
+dst_compatible = true
+all_clients_require_mod = false
+client_only_mod = true
+server_filter_tags = {}

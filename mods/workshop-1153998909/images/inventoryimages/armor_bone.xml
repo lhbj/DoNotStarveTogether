@@ -1,0 +1,6 @@
+<Atlas>
+    <Texture filename="armor_bone.tex" />
+    <Elements>
+        <Element name="armor_bone.tex" u1="0.0078125" u2="0.9921875" v1="0.0078125" v2="0.9921875" />
+    </Elements>
+</Atlas>
